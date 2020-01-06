@@ -1,5 +1,5 @@
 {
-    "appId":"",
+    "appId":"com.test.appid",
     "isLive":true,
-    "moveId":""
+    "moveId":"com.test.moveid"
 }
